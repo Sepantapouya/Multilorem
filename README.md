@@ -35,11 +35,11 @@ A professional Figma plugin that generates meaningful placeholder text in Persia
 
 ## 🚀 Quick Start
 
-### Option 1: Install from Figma Community (Recommended)
+### Option 1: Add from Figma Community (Recommended)
 1. Open Figma (Desktop or Web)
 2. Go to **Plugins** → **Browse plugins in Community**
 3. Search for **"MultiLorem"**
-4. Click **"Install"** to add it to your Figma
+4. Click **"Try it out"** or **"Save"** to add it to your Figma
 5. Start using it right away!
 
 ### Option 2: Development Setup
