@@ -43,19 +43,19 @@ A professional Figma plugin that generates meaningful placeholder text in Persia
 5. Start using it right away!
 
 ### Option 2: Development Setup
-```bash
+   ```bash
 # Clone the repository
 git clone https://github.com/sepantapouya/multilorem.git
 
 # Install dependencies
-npm install
+   npm install
 
 # Build the plugin
-npm run build
+   npm run build
 
 # In Figma: Plugins → Development → Import plugin from manifest
 # Select the manifest.json file
-```
+   ```
 
 ## 📖 How to Use
 
