@@ -114,14 +114,6 @@ npm run watch
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 🎨 Design System
-
-The plugin features a modern dark theme that seamlessly integrates with Figma:
-- **Primary Color**: `#d2145a` (Pink accent)
-- **Background**: `#21252b` (Dark gray)
-- **Typography**: Inter font family
-- **Interactions**: Smooth hover effects and transitions
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -146,15 +138,6 @@ Found a bug or need help? Please open an issue with:
 - Steps to reproduce
 - Expected vs actual behavior
 - Screenshots (if applicable)
-
-## 🔮 Roadmap
-
-- [ ] **More Languages**: Japanese, Korean, Hindi, Turkish
-- [ ] **Custom Dictionaries**: Upload your own word lists
-- [ ] **Batch Processing**: Generate text for multiple layers
-- [ ] **Export Options**: Save generated text to files
-- [ ] **Template System**: Save and reuse generation settings
-- [ ] **Advanced RTL**: Enhanced right-to-left language support
 
 ---
 
