@@ -1,0 +1,16 @@
+{
+  "name": "multilorem",
+  "version": "1.0.0",
+  "description": "Multi-language Lorem Ipsum generator for Figma",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "author": "Sepanta Pouya",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.82.0",
+    "typescript": "^5.3.3"
+  }
+} 
